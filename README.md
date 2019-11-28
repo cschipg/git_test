@@ -1,0 +1,1 @@
+This is Chip's first git project
